@@ -10,7 +10,7 @@ export default function StructuredData() {
       name: 'Mitike Bezabh',
       jobTitle: 'Software Developer',
       description: 'Software Developer specializing in React, Node.js, Next.js, and WordPress development',
-      url: 'https://portfolio-mitikmol.vercel.app',
+      url: 'https://mitike-portfolio.vercel.app',
       sameAs: [
         'https://github.com/mitikmol',
         'https://www.linkedin.com/in/mitike-bezabh-8104b5326/',

@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = 'https://portfolio-mitikmol.vercel.app' // Update this after deployment
+  const baseUrl = 'https://mitike-portfolio.vercel.app'
   
   return {
     rules: {

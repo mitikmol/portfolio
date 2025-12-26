@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://portfolio-mitikmol.vercel.app',
+    url: 'https://mitike-portfolio.vercel.app',
     title: 'Mitike Bezabh - Software Developer Portfolio',
     description: 'Software Developer specializing in React, Node.js, Next.js, and WordPress. View my portfolio and projects.',
     siteName: 'Mitike Bezabh Portfolio',
