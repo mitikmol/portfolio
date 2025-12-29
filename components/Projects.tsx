@@ -5,10 +5,17 @@ import { ExternalLink, Github } from 'lucide-react'
 
 const projects = [
   {
-    title: 'Portfolio Website',
-    description: 'A modern, responsive portfolio website built with Next.js and React. Features include smooth animations, dark mode support, and optimized performance.',
-    tech: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS'],
-    github: 'https://github.com/mitikmol',
+    title: 'Infonans Solution PLC',
+    description: 'A corporate website for Infonans Solution PLC, an IT solutions company. Built with a modern tech stack featuring dynamic content management and seamless user experience.',
+    tech: ['React', 'Node.js', 'PostgreSQL'],
+    github: '#',
+    live: 'https://infonans.com/',
+  },
+  {
+    title: 'Driving License Preparation',
+    description: 'An educational web application designed to help users prepare for driving license examinations. Features interactive quizzes and progress tracking.',
+    tech: ['React', 'JavaScript', 'Node.js', 'MongoDB'],
+    github: 'https://github.com/mitikmol/DrivingLicencesPreparationProject',
     live: '#',
   },
   {
@@ -16,13 +23,6 @@ const projects = [
     description: 'A comprehensive tour booking platform developed with PHP. Includes user management, booking system, and administrative dashboard for tour operators.',
     tech: ['PHP', 'MySQL', 'JavaScript', 'HTML/CSS'],
     github: 'https://github.com/mitikmol/tour-reservation-system',
-    live: '#',
-  },
-  {
-    title: 'Driving License Preparation',
-    description: 'An educational web application designed to help users prepare for driving license examinations. Features interactive quizzes and progress tracking.',
-    tech: ['React', 'JavaScript', 'Node.js', 'MongoDB'],
-    github: 'https://github.com/mitikmol/DrivingLicencesPreparationProject',
     live: '#',
   },
 ]

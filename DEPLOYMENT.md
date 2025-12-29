@@ -47,3 +47,4 @@ No environment variables needed for this project currently.
 
 After deployment, you can add a custom domain in your hosting platform's settings.
 
+
